@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Karol Gutiérrez"]
   spec.email         = ["kjgs.22@gmail.com"]
 
-  spec.summary       = %q{Many specific view methods thta I use in my apps}
+  spec.summary       = %q{Many specific view methods that I use in my apps}
   spec.description   = %q{Provides general support to HTML data in rails apps}
   spec.homepage      = "https://github.com/karol22"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
